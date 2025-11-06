@@ -20,14 +20,13 @@ The healthcare dataset includes features like Date,Name, Gender, Age, Admission 
 
 5.Data Preprocessing:
 
-    Data Normalization and Imputation: 
-       In the Power Query Editor, the dataset underwent an ETL (Extract, Transform, Load) process, which included normalization by splitting tables to enhance data organization and clarity. Missing values were addressed through imputation techniques, ensuring that the          dataset remained robust and reliable for analysis while maintaining consistency across various features.
+Data Normalization and Imputation: 
+In the Power Query Editor, the dataset underwent an ETL (Extract, Transform, Load) process, which included normalization by splitting tables to enhance data organization and clarity. Missing values were addressed through imputation techniques, ensuring that the          dataset remained robust and reliable for analysis while maintaining consistency across various features.
+DAX Calculations and Data Modeling:
+Data Analysis Expressions(DAX) were utilized to create calculated fields for aggregation, allowing for sophisticated analysis of the healthcare data. This facilitated effective data modeling by establishing relationships between tables, enabling comprehensive         insights and enhancing the overall interpretability of the dashboard.
 
-   DAX Calculations and Data Modeling:
-   Data Analysis Expressions(DAX) were utilized to create calculated fields for aggregation, allowing for sophisticated analysis of the healthcare data. This facilitated effective data modeling by establishing relationships between tables, enabling comprehensive         insights and enhancing the overall interpretability of the dashboard.
+6.Key insights and benefits:
 
-6. Key Insights and Benefits:
-   
 Identified the patients data by using medical condition columnn data
 
 Optimized the Billing amount with respect to insurrance provider.
