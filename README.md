@@ -2,6 +2,7 @@
 1.Project Title :
 
 Health care Analytics Dashboard 
+
 2.Short Description:
 
 The Healthcare Data Analysis project utilizes Power BI to analyze and derive insights from healthcare data. The project aims to uncover trends, patterns, and correlations within the data to improve decision-making and operational efficiency in healthcare organizations. By leveraging Power BI's visualization capabilities, we create interactive dashboards that provide valuable insights into patient demographics, treatment effectiveness, hospital utilization, and other key healthcare metrics.
@@ -25,6 +26,10 @@ DAX Calculations and Data Modeling: Data Analysis Expressions(DAX) were utilized
 6. Key Insights and Benefits:
 Identified the patients data by using medical condition columnn data .
 Optimized the Billing amount with respect to insurrance provider.
+
+7.Screenschot:
+
+
 
 
 
