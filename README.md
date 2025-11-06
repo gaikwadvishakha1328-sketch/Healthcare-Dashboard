@@ -29,6 +29,10 @@ Optimized the Billing amount with respect to insurrance provider.
 
 7.Screenschot:
 
+<img width="1457" height="817" alt="image" src="https://github.com/user-attachments/assets/25369638-c928-418c-8227-8c403ed2c11d" />
+
+
+
 
 
 
